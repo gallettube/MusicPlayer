@@ -7,8 +7,6 @@ using System.Text;
 using System.Windows.Forms;
 using NppPluginNET;
 
-using System.Runtime.InteropServices;
-using System.Text;
 
 
 namespace MusicPlayer
