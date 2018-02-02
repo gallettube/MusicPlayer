@@ -10,7 +10,7 @@
     <RootNamespace>MusicPlayer</RootNamespace>
     <AssemblyName>MusicPlayer</AssemblyName>
     <OutputPath>bin\Debug\</OutputPath>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
